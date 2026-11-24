@@ -1,6 +1,6 @@
 cask "ray" do
-  version "0.10.1"
-  sha256 "37609823c65475747f313486b0110b1612724e4723c2833e4202f71542614061"
+  version "0.11.0"
+  sha256 "04377f17d72185130cd6875845458218e82aef26bf9a9c4230e2be75235d8db5"
 
   url "https://github.com/shanuflash/ray/releases/download/v#{version}/Ray-#{version}.dmg"
   name "Ray"
